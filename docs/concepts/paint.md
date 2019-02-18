@@ -1,4 +1,4 @@
-# Paint {#paintconcept .concept}
+# Paint 
 
 Paint is useful for refreshing the look of rooms and furniture.
 

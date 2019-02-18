@@ -1,4 +1,4 @@
-# Garage Tasks {#overview .concept}
+# Garage Tasks 
 
 When you go into the garage, be prepared to get your hands dirty!
 

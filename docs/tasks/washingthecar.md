@@ -1,4 +1,4 @@
-# Washing the car {#changing.the.oil .task}
+# Washing the car 
 
 Keep your car looking great by washing it regularly.
 

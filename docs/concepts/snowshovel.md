@@ -1,4 +1,4 @@
-# Snow shovel {#snowshovelconcept .concept}
+# Snow shovel 
 
 Use the snow shovel to clear the drive way and side walk of snow in the winter.
 

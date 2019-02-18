@@ -1,4 +1,4 @@
-# Wheel barrow {#wheelbarrow .concept}
+# Wheel barrow 
 
 A good wheel barrow will save your back from extensive trauma when you garden.
 

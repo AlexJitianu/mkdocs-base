@@ -1,4 +1,4 @@
-# Garage Concepts {#conceptconcept .concept}
+# Garage Concepts 
 
 A well-stocked garage can be the envy of the neighborhood.
 

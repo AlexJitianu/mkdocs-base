@@ -1,4 +1,4 @@
-# Workbench {#workbenchconcept .concept}
+# Workbench 
 
 Use the workbench for storing tools and hardware, and for doing small projects.
 

@@ -1,4 +1,4 @@
-# Shelving {#shelvingconcept .concept}
+# Shelving 
 
 Wooden or metal shelving is useful for storing things in the garage.
 

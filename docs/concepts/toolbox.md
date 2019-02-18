@@ -1,4 +1,4 @@
-# Tool box {#toolboxconcept .concept}
+# Tool box 
 
 A tool box contains many compartments for organizing tools and hardware.
 

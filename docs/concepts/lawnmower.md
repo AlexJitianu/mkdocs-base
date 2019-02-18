@@ -1,4 +1,4 @@
-# Lawnmower {#lawnmowerconcept .concept}
+# Lawnmower 
 
 The lawnmower is a machine used to cut grass in the yard.
 

@@ -1,4 +1,4 @@
-# Tools {#toolsconcept .concept}
+# Tools 
 
 Invest in a good set of tools for doing all kinds of tasks around the house.
 

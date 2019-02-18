@@ -1,4 +1,4 @@
-# Windshield washer fluid {#wwfluidconcept .concept}
+# Windshield washer fluid 
 
 Windshield washer fluid is required to keep your windshield wipers functioning properly.
 
