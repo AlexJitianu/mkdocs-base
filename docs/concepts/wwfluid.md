@@ -4,5 +4,5 @@ Windshield washer fluid is required to keep your windshield wipers functioning p
 
 Keep your car's windshield washer fluid topped up so you will have a clean windshield whatever the weather or insect population.
 
-**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.html)
+**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.md)
 

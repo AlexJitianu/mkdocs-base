@@ -21,10 +21,10 @@ Recommanded oil types:
 |5W-20|low|
 |10W-30|high|
 
-**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.html)
+**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.md)
 
 **Related information**  
 
 
-[Maintenance Benefits](../tasks/carMaintenance.html)
+[Maintenance Benefits](../tasks/carMaintenance.md)
 

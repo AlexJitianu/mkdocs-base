@@ -2,10 +2,10 @@
 
 Avoid costly repairs by constantly performing simple maintenance tasks.
 
-**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.html)
+**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.md)
 
 **Related information**  
 
 
-[Changing the oil in your car](../tasks/changingtheoil.html)
+[Changing the oil in your car](../tasks/changingtheoil.md)
 

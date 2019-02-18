@@ -4,5 +4,5 @@ Paint is useful for refreshing the look of rooms and furniture.
 
 Store unused paint in the garage.
 
-**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.html)
+**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.md)
 

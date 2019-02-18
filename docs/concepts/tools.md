@@ -17,5 +17,5 @@ Useful tools include the following items:
 
 Keep your tools organized in a tool box which you can store in the garage.
 
-**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.html)
+**Parent topic:** [Garage Concepts](../concepts/garageconceptsoverview.md)
 

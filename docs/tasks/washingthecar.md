@@ -15,9 +15,9 @@ An image reference that uses the href attribute.
 
 See also:
 
-1.  [Changing the oil](changingtheoil.html)
-2.  [Organizing the workbench and tools](../concepts/tools.html)
-3.  [Water hose](../concepts/waterhose.html)
+1.  [Changing the oil](changingtheoil.md)
+2.  [Organizing the workbench and tools](../concepts/tools.md)
+3.  [Water hose](../concepts/waterhose.md)
 
-**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.html)
+**Parent topic:** [Garage Tasks](../tasks/garagetasksoverview.md)
 
